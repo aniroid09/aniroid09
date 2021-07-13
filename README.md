@@ -1,7 +1,5 @@
 ### Hi there 👋
-Welcome to my Repo!
-This is a test repo for a project!
-Thank you and have a nice day :)
+
 
 <!--
 **aniroid09/aniroid09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
